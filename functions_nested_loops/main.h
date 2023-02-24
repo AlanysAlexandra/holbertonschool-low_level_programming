@@ -1,1 +1,1 @@
-#headerfile
+void print_alphabet(void);
