@@ -1,6 +1,4 @@
-#include<stdio.h>
 #include "main.h"
-#include "_putchar.c"
 /**
  * print_last_digit - Prints the last digit
  * of a number.
